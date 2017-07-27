@@ -67,22 +67,22 @@ public class ImageAdapter extends BaseAdapter{
 
     // references to our images
     private Integer[] mThumbIds = {
-            R.drawable.ic_denis_ah, R.drawable.ic_denis_ah,
-            R.drawable.ic_denis_ah, R.drawable.ic_denis_ah,
-            R.drawable.ic_denis_ah, R.drawable.ic_denis_ah,
-            R.drawable.ic_denis_ah, R.drawable.ic_denis_ah,
-            R.drawable.ic_denis_ah, R.drawable.ic_denis_ah,
-            R.drawable.ic_denis_ah, R.drawable.ic_denis_ah,
-            R.drawable.ic_denis_ah, R.drawable.ic_denis_ah
+            R.drawable.ic_do, R.drawable.ic_re,
+            R.drawable.ic_mi, R.drawable.ic_fa,
+            R.drawable.ic_sol, R.drawable.ic_la,
+            R.drawable.ic_si, R.drawable.ic_do2,
+            R.drawable.ic_re2, R.drawable.ic_mi2,
+            R.drawable.ic_fa2, R.drawable.ic_sol2,
+            R.drawable.ic_la2, R.drawable.ic_si2
     };
 
     private String[] mThumbTx = {
-            "Ah","Ah",
-            "Ah","Ah",
-            "Ah","Ah",
-            "Ah","Ah",
-            "Ah","Ah",
-            "Ah","Ah",
-            "Ah","Ah"
+            "Do","Re",
+            "Mi","Fa",
+            "Sol","La",
+            "Si","Do",
+            "Re","Mi",
+            "Fa","Sol",
+            "La","Si"
     };
 }
