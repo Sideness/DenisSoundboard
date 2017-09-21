@@ -1,4 +1,4 @@
-package apps.dailyvery.com.denissoundboard;
+package apps.dailyvery.com.ahsoundboard;
 
 import org.junit.Test;
 

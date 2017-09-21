@@ -1,4 +1,4 @@
-package apps.dailyvery.com.denissoundboard;
+package apps.dailyvery.com.ahsoundboard;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("apps.dailyvery.com.denissoundboard", appContext.getPackageName());
+        assertEquals("apps.dailyvery.com.ahsoundboard", appContext.getPackageName());
     }
 }

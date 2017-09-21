@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="apps.dailyvery.com.denissoundboard">
+    package="apps.dailyvery.com.ahsoundboard">
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_denis_ah"
+        android:icon="@mipmap/ic_new_logo"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity" android:screenOrientation="landscape">
+        <activity android:name="apps.dailyvery.com.ahsoundboard.MainActivity" android:screenOrientation="landscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

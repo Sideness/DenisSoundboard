@@ -1,21 +1,12 @@
-package apps.dailyvery.com.denissoundboard;
+package apps.dailyvery.com.ahsoundboard;
 
-import android.content.Context;
 import android.media.AudioManager;
-import android.media.MediaPlayer;
 import android.media.SoundPool;
 import android.os.Build;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.MotionEvent;
 import android.view.View;
-import android.widget.AdapterView;
-import android.widget.Button;
-import android.widget.GridView;
 import android.widget.RelativeLayout;
-
-import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity {
 
