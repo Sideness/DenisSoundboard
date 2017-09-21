@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
             soundPool = new SoundPool(5, AudioManager.STREAM_MUSIC, 0);
         }
 
-        sdo1 = soundPool.load(this, R.raw.ah, 1);
+        sdo1 = soundPool.load(this, R.raw.ah_do2, 1);
         sre = soundPool.load(this, R.raw.ah_re2, 1);
         smi = soundPool.load(this, R.raw.ah_mi2, 1);
         sfa = soundPool.load(this, R.raw.ah_fa2, 1);
@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
         sla = soundPool.load(this, R.raw.ah_la2, 1);
         ssi = soundPool.load(this, R.raw.ah_si2, 1);
         sdo2 = soundPool.load(this, R.raw.ah_do3, 1);
-        sre2 = soundPool.load(this, R.raw.ah_re3, 1);
+        sre2 = soundPool.load(this, R.raw.ah, 1);
         smi2 = soundPool.load(this, R.raw.ah_mi3, 1);
         sfa2 = soundPool.load(this, R.raw.ah_fa3, 1);
         ssol2 = soundPool.load(this, R.raw.ah_sol3, 1);
